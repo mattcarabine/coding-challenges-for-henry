@@ -88,6 +88,6 @@ What won't be specifically judged:
 - Writing everything from scratch, if it is already offered in an existing standard library then you should use it.
 
 ## Rules
-- You may use any of the following programming languages: `Python`, `Java`, `Go`, `C/C++`, `Swift`, `Objective-C`, `C#`.
+- You may use any of the following programming languages: `Python`, `Java`, `Go`, `C/C++`, `C#`, `Node.js`.
 - Feel free to use any built-in standard libraries for the programming language you intend to use.  You may also use a 3rd party library, but please justify its use and explain the reason for doing so.
 - You may not ask specific questions on Stack Overflow or to anyone you know, you can ask clarifying questions to the person who set the challenge
