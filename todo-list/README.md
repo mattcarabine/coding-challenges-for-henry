@@ -36,6 +36,12 @@ What won't be specifically judged:
 - Performance optimization.
 - Writing everything from scratch, if it is already offered in an existing standard library then you should use it.
 
+## Documentation
+There should be instructions on how to:
+
+- Run the program, including installing any dependencies. 
+- Achieve the requirements specified in the brief (e.g. "How do I add an item")
+
 ## Rules
 - You may use any of the following programming languages: `Python`, `Java`, `Go`, `C/C++`, `C#`, `Node.js`.
 - Feel free to use any built-in standard libraries for the programming language you intend to use.  You may also use a 3rd party library, but please justify its use and explain the reason for doing so.
