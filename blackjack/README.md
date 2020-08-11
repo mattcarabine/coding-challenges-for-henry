@@ -39,6 +39,7 @@ You must select at least one of the following requirements to implement, you are
 - The program should provide some statistical guidance about whether the user should 'hit' or 'stick', e.g. recommend hitting at 12, recommend sticking at 20
 - The program should allow for multiple human players (using the same screen, no need for networking etc), these players must be named and are only competing against the dealer, not each other
 - The program should allow users to associate bets with each round and maintain a total 'pot' for the user
+- The program should allow users to specify how many decks they want to play with (e.g. 1 deck, 2 decks, 4 decks), rather than just using the single deck
 
 ## Objectives 
 
